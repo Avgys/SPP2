@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Faker/1.0.0": {
+        "dependencies": {
+          "PrimitiveTypes": "1.0.0"
+        },
+        "runtime": {
+          "Faker.dll": {}
+        }
+      },
+      "PrimitiveTypes/1.0.0": {
+        "runtime": {
+          "PrimitiveTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Faker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimitiveTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
