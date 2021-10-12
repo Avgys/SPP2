@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = PrimitiveTypes
+build_property.ProjectDir = C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\

@@ -2,7 +2,6 @@ C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTy
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\bin\Debug\net5.0\PrimitiveTypes.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\bin\Debug\net5.0\ref\PrimitiveTypes.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\bin\Debug\net5.0\PrimitiveTypes.pdb
-C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\PrimitiveTypes.csprojAssemblyReference.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\PrimitiveTypes.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\PrimitiveTypes.AssemblyInfoInputs.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\PrimitiveTypes.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTy
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\PrimitiveTypes.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\ref\PrimitiveTypes.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\PrimitiveTypes.pdb
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimitiveTypes\obj\Debug\net5.0\PrimitiveTypes.csproj.AssemblyReference.cache

@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 namespace FakerLib
 {
     using PrimitiveTypes;
+    using PrimitiveTypes.Generators;
 
     public class Faker
     {
@@ -22,6 +23,8 @@ namespace FakerLib
             this.PrimitiveGenDict = PrimitiveTypeGenerator.Dict;
             this.CreatedTypesInClass = new HashSet<Type>();
             this.GenericGenDict = new Dictionary<Type, IGenericGen>();
+            var temp = new ListGen();
+            this.GenericGenDict.Add(temp.CurType, temp);
         }
 
         public Faker(FakerConfig config) : this()

@@ -7,7 +7,6 @@ C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\bin\De
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\bin\Debug\net5.0\SPP2.pdb
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\bin\Debug\net5.0\PrimitiveTypes.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\bin\Debug\net5.0\PrimitiveTypes.pdb
-C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\obj\Debug\net5.0\SPP2.csprojAssemblyReference.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\obj\Debug\net5.0\SPP2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\obj\Debug\net5.0\SPP2.AssemblyInfoInputs.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\obj\Debug\net5.0\SPP2.AssemblyInfo.cs
@@ -19,3 +18,4 @@ C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\obj\De
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\obj\Debug\net5.0\SPP2.genruntimeconfig.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\bin\Debug\net5.0\Faker.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\bin\Debug\net5.0\Faker.pdb
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\SPP2\obj\Debug\net5.0\SPP2.csproj.AssemblyReference.cache

@@ -90,13 +90,12 @@ C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\bin\Debug\net5.0\PrimitiveTypes.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\bin\Debug\net5.0\Faker.pdb
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\bin\Debug\net5.0\PrimitiveTypes.pdb
-C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.csprojAssemblyReference.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.AssemblyInfoInputs.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.AssemblyInfo.cs
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.csproj.CoreCompileInputs.cache
-C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.csproj.CopyComplete
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\ref\TestProject1.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.pdb
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.genruntimeconfig.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.csproj.AssemblyReference.cache

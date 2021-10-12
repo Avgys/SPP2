@@ -50,6 +50,6 @@ namespace TestProject1.Examples
 
     public class C
     {
-        public List<uint> list;
+        public List<int> list;
     }
 }
