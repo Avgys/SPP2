@@ -12,3 +12,4 @@ C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Faker\obj\D
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Faker\bin\Debug\net5.0\PrimitiveTypes.dll
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Faker\bin\Debug\net5.0\PrimitiveTypes.pdb
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Faker\obj\Debug\net5.0\Faker.csproj.AssemblyReference.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Faker\obj\Debug\net5.0\Faker.csproj.CopyComplete

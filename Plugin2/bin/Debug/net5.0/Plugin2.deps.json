@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Plugin2/1.0.0": {
+        "dependencies": {
+          "PrimitiveTypes": "1.0.0"
+        },
+        "runtime": {
+          "Plugin2.dll": {}
+        }
+      },
+      "PrimitiveTypes/1.0.0": {
+        "runtime": {
+          "PrimitiveTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plugin2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimitiveTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

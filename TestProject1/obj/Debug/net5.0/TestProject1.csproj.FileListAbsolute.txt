@@ -99,3 +99,4 @@ C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.pdb
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.genruntimeconfig.cache
 C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\TestProject1\obj\Debug\net5.0\TestProject1.csproj.CopyComplete

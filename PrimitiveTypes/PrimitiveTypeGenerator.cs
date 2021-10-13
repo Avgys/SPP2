@@ -12,11 +12,10 @@ namespace PrimitiveTypes
     public static class PrimitiveTypeGenerator
     {
 
-        public static Dictionary<Type, IPrimitiveGen> Dict { get; private set; }
+        public static Dictionary<Type, IPrimitiveGen> Dict { get;  private set; }
 
         static PrimitiveTypeGenerator()
-        {
-            
+        {            
             FullFilDictionary();
         }
            
@@ -37,10 +36,8 @@ namespace PrimitiveTypes
         {
             Dict = new Dictionary<Type, IPrimitiveGen>();
 
-            AddToDictionary(new BoolGen());
             AddToDictionary(new IntGen());
             AddToDictionary(new DateGen());
-            AddToDictionary(new StringGen());
             AddToDictionary(new CharGen());
         }
 

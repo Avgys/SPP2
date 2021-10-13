@@ -1,0 +1,15 @@
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\bin\Debug\net5.0\Plugin2.deps.json
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\bin\Debug\net5.0\Plugin2.dll
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\bin\Debug\net5.0\ref\Plugin2.dll
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\bin\Debug\net5.0\Plugin2.pdb
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\bin\Debug\net5.0\PrimitiveTypes.dll
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\bin\Debug\net5.0\PrimitiveTypes.pdb
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.csproj.AssemblyReference.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.AssemblyInfoInputs.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.AssemblyInfo.cs
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.csproj.CoreCompileInputs.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.csproj.CopyComplete
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.dll
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\ref\Plugin2.dll
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\Plugin2\obj\Debug\net5.0\Plugin2.pdb

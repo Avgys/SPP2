@@ -4,12 +4,13 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 
 namespace FakerLib
 {
     using PrimitiveTypes;
-    using PrimitiveTypes.Generators;
+    //using PrimitiveTypes.Generators;
 
     public class Faker
     {
@@ -20,11 +21,52 @@ namespace FakerLib
 
         public Faker()
         {
+            PrimitiveTypeGenerator.FullFilDictionary();
             this.PrimitiveGenDict = PrimitiveTypeGenerator.Dict;
             this.CreatedTypesInClass = new HashSet<Type>();
             this.GenericGenDict = new Dictionary<Type, IGenericGen>();
-            var temp = new ListGen();
-            this.GenericGenDict.Add(temp.CurType, temp);
+            //var temp = new ListGen();
+            //this.GenericGenDict.Add(temp.CurType, temp);
+
+            var assemblies = new List<Assembly>();
+            var path = "C:\\Users\\ilyuh\\Desktop\\Main Projects For Study\\Новая папка\\Plugins";
+
+            try
+            {
+                foreach (string file in Directory.GetFiles(path, "*.dll"))
+                {
+                    try
+                    {
+                        assemblies.Add(Assembly.LoadFile(file));
+                    }
+                    catch (BadImageFormatException)
+                    { }
+                    catch (FileLoadException)
+                    { }
+                }
+            }
+            catch (DirectoryNotFoundException)
+            { }
+
+            foreach (Assembly assembly in assemblies)
+            {
+                foreach (Type type in assembly.GetTypes())
+                {
+                    foreach (Type typeInterface in type.GetInterfaces())
+                    {
+                        if (typeInterface.Equals(typeof(IGenericGen)))
+                        {
+                            var creator = (IGenericGen)Activator.CreateInstance(type, this.PrimitiveGenDict);
+                            GenericGenDict.Add(creator.CurType, creator);
+                        }
+                        else if (typeInterface.Equals(typeof(IPrimitiveGen)))
+                        {
+                            var creator = (IPrimitiveGen)Activator.CreateInstance(type);
+                            PrimitiveGenDict.Add(creator.CurType, creator);
+                        }
+                    }
+                }
+            }
         }
 
         public Faker(FakerConfig config) : this()

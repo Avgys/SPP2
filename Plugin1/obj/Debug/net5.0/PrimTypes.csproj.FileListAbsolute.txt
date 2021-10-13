@@ -1,0 +1,5 @@
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimTypes\obj\Debug\net5.0\PrimTypes.csproj.AssemblyReference.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimTypes\obj\Debug\net5.0\PrimTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimTypes\obj\Debug\net5.0\PrimTypes.AssemblyInfoInputs.cache
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimTypes\obj\Debug\net5.0\PrimTypes.AssemblyInfo.cs
+C:\Users\ilyuh\Desktop\Main Projects For Study\Новая папка\PrimTypes\obj\Debug\net5.0\PrimTypes.csproj.CoreCompileInputs.cache

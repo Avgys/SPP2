@@ -7,15 +7,17 @@ using System.Threading.Tasks;
 
 namespace PrimitiveTypes.Generators
 {
+    using PrimitiveTypes;
+
     public class ListGen : IGenericGen
     {
         public Type CurType => typeof(List<>);
 
         private Dictionary<Type, IPrimitiveGen> PrimitiveGenDict;
 
-        public ListGen()
+        public ListGen(Dictionary<Type, IPrimitiveGen> dict)
         {
-           this.PrimitiveGenDict = PrimitiveTypeGenerator.Dict;
+           this.PrimitiveGenDict = dict;
         }
 
         public object Create(Type type)
